@@ -1,0 +1,3 @@
+#  Projeto
+
+Projeto criado em Maven v3.8.5 usando IDE Eclipse com JAVA 8+ JDK instalado; Dependências desafio no pom.xml e usadas para o projeto: junit v4.12 / rest-assured v5.0.1 / json-simple v1.1.1 / pepino-junit v1.2.5 / pepino-java v1.2.5 Criado primeira automação do pacote completo em Junit para o primeiro pack de nome: "DesafioSicred"; Criado segunda automação parte em Cucumber para o segundo pacote de nome: "io.cucumber", fase GET; Codigo comentado me referindo aos erros das orientações em pdf, com erros no arquivo swagger.
